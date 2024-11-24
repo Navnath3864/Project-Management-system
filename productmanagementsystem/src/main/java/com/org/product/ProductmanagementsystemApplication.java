@@ -8,7 +8,6 @@ public class ProductmanagementsystemApplication {
 
 	public static void main(String[] args) {
 		System.out.println("This is Project Management System");
-		System.out.println("Pull-2");
 		SpringApplication.run(ProductmanagementsystemApplication.class, args);
 	}
 
